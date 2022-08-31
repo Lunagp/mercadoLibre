@@ -1,4 +1,4 @@
 package co.com.mercadolibre.tasks;
 
-public class Logeo {
+public class Login {
 }
